@@ -42,7 +42,6 @@
             android:name=".DetailedView"
             android:label="@string/title_activity_detailed_view"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".ConnerActivity"></activity>
     </application>
 
 </manifest>
